@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "opensea-blockchain-clone"
+    "name": "opensea"
   },
   "api": {
-    "projectId": "6gt65pn7",
+    "projectId": "remq7go1",
     "dataset": "production"
   },
   "plugins": [
