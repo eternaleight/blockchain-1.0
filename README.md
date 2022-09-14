@@ -1,5 +1,9 @@
 # React Next.js Sanity/opensea-blockchain-1.0
-ver.0.9 [opensea-blockchain-0.9b](https://github.com/eternaleight/opensea-blockchain-0.9b)
+前ver.0.9 [opensea-blockchain-0.9b](https://github.com/eternaleight/opensea-blockchain-0.9b)
+
+
+## 🚨注意:Rinkebyテストネットワークで入れる(イーサリアムのテストモード）
+# https://opensea-01.vercel.app
 <!-- ## website -->
 <!-- ![ダウンロードc](https://user-images.githubusercontent.com/96198088/156288943-013ac9f7-2015-4550-beb2-53038444d9b4.gif) -->
 ## iphone/responsive
