@@ -15,7 +15,7 @@
 - [Sanity](https://www.sanity.io/) - Content Is Data
 Sanity is the platform for structured content that powers remarkable digital experiences.
 - [Alchemy](https://www.alchemy.com/) - The web3
-development platform
+development platform.
 The set of web3 development tools to build and scale your dApp with ease.
 - [Thirdweb](https://thirdweb.com/) - Build web3 apps, easily.
 Smart contracts you control. SDKs and intuitive tools for developers. Ship on-chain faster.
